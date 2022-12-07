@@ -2,9 +2,8 @@ analytics-id:
 #Pages
 pages:
   - {name: 'ABOUT', link: 'episodes.html'}
-  - {name: 'FEATURES', link: '#'}
-  - {name: 'CONTACT US', link: '#'}
-  - {name: 'GitHub', link: 'https://github.com/PandaSekh'}
+  - {name: 'FEATURES', link: 'example-1.html'}
+  - {name: 'CONTACT US', link: 'example-2.html'}
   - {name: 'Get This Theme', link: 'https://github.com/PandaSekh/Jekyll-Podcaster'}
 
 social:
