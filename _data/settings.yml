@@ -1,9 +1,9 @@
 analytics-id: 
 #Pages
 pages:
-  - {name: 'Episodes', link: 'episodes.html'}
-  - {name: 'Patreon', link: '#'}
-  - {name: 'Shop', link: '#'}
+  - {name: 'ABOUT', link: 'episodes.html'}
+  - {name: 'FEATURES', link: '#'}
+  - {name: 'CONTACT US', link: '#'}
   - {name: 'GitHub', link: 'https://github.com/PandaSekh'}
   - {name: 'Get This Theme', link: 'https://github.com/PandaSekh/Jekyll-Podcaster'}
 
